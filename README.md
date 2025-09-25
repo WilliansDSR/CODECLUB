@@ -1,4 +1,14 @@
-# WME Toy Models — Run in 1 Minute
+# Universal Quantum Mesh Equation (WME)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17180764.svg)](https://doi.org/10.5281/zenodo.17180764)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17181035.svg)](https://doi.org/10.5281/zenodo.17181035)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17186420.svg)](https://doi.org/10.5281/zenodo.17186420)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17186773.svg)](https://doi.org/10.5281/zenodo.17186773)
+
+This repository contains toy models for the *Universal Quantum Mesh Equation (WME)*, demonstrating its applications across metals, AI, and black holes.  
+All models are *reproducible in 1 minute*.
+
+--- WME Toy Models — Run in 1 Minute
 
 Três scripts **reproduzíveis** que demonstram, de forma simples e rápida, as ideias centrais:
 1. **Metal (curvatura ≠ 0)** — não há trajetória linear global: tendências de **escape** ou **decay** emergem.
