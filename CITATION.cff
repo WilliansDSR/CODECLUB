@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "WME Toy Models: Metal, AI, and Black Hole (Run in 1 Minute)"
+authors:
+  - family-names: "Rego"
+    given-names: "Willians"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: "2025-09-24"
+version: "1.0.0"
+repository-code: "https://github.com/<seu-usuario>/wme-toys"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.xxxxxxx" # Substitua pelo seu DOI Zenodo principal
+  - type: url
+    value: "https://zenodo.org/record/xxxxxxx" # Substitua pelo link do Zenodo
