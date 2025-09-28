@@ -84,3 +84,10 @@ git push -u origin main
 ## Licença
 Este repositório usa a licença **MIT** (veja `LICENSE`).
 
+
+## 📄 Publications & Preprints
+⁠  ⁠*Finite-Time Closure Theorem and Minimal-Energy Mesh Framework*  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17216874.svg)](https://doi.org/10.5281/zenodo.17216874)
+
+•⁠  ⁠*Mass-Driven Time and the Theorem of Entropic Closure*  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17216258.svg)](https://doi.org/10.5281/zenodo.17216258)
