@@ -93,3 +93,4 @@ git push -u origin main
 ## Licença
 Este repositório usa a licença **MIT** (veja `LICENSE`).
 
+📚 *Download all references in BibTeX format:* [citations.bib](citations.bib)
