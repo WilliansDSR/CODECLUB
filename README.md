@@ -1,9 +1,18 @@
 # Universal Quantum Mesh Equation (WME)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17180764.svg)](https://doi.org/10.5281/zenodo.17180764)  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17181035.svg)](https://doi.org/10.5281/zenodo.17181035)  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17186420.svg)](https://doi.org/10.5281/zenodo.17186420)  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17186773.svg)](https://doi.org/10.5281/zenodo.17186773)
+## 📄 Publications & Preprints
+
+•⁠  ⁠[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17216874.svg)](https://doi.org/10.5281/zenodo.17216874) *Finite-Time Closure Theorem and Minimal-Energy Mesh Framework*
+
+•⁠  ⁠[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17216258.svg)](https://doi.org/10.5281/zenodo.17216258) *Mass-Driven Time and the Theorem of Entropic Closure*
+
+•⁠  ⁠[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17186773.svg)](https://doi.org/10.5281/zenodo.17186773) *WME System – Plasma Threshold and Energy Partition*
+
+•⁠  ⁠[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17186420.svg)](https://doi.org/10.5281/zenodo.17186420) *Orbital Inspiral and Minimal Dissipation Models*
+
+•⁠  ⁠[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17181035.svg)](https://doi.org/10.5281/zenodo.17181035) *Energy-Efficient AI via Universal Quantum Mesh Equation*
+
+•⁠  ⁠[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17180764.svg)](https://doi.org/10.5281/zenodo.17180764) *Universal Quantum Mesh Equation – Foundational Theorem*
 
 This repository contains toy models for the *Universal Quantum Mesh Equation (WME)*, demonstrating its applications across metals, AI, and black holes.  
 All models are *reproducible in 1 minute*.
@@ -84,10 +93,3 @@ git push -u origin main
 ## Licença
 Este repositório usa a licença **MIT** (veja `LICENSE`).
 
-
-## 📄 Publications & Preprints
-⁠  ⁠*Finite-Time Closure Theorem and Minimal-Energy Mesh Framework*  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17216874.svg)](https://doi.org/10.5281/zenodo.17216874)
-
-•⁠  ⁠*Mass-Driven Time and the Theorem of Entropic Closure*  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17216258.svg)](https://doi.org/10.5281/zenodo.17216258)
