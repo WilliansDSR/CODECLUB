@@ -95,36 +95,4 @@ Este repositório usa a licença **MIT** (veja `LICENSE`).
 
 📚 *Download all references in BibTeX format:* [citations.bib](citations.bib)
 
-cff-version: 1.2.0
-title: "CodeClub: Universal Quantum Mesh Equation (WME) – Complete Preprints"
-authors:
-  - family-names: "DSR"
-    given-names: "Willians"
-doi: 10.5281/zenodo.17216874
-date-released: 2025-09-28
-message: "If you use this work, please cite one or more of the following preprints:"
-references:
-  - type: article
-    title: "Finite-Time Closure Theorem and Minimal-Energy Mesh Framework"
-    doi: 10.5281/zenodo.17216874
-    year: 2025
-  - type: article
-    title: "Mass-Driven Time and the Theorem of Entropic Closure"
-    doi: 10.5281/zenodo.17216258
-    year: 2025
-  - type: article
-    title: "WME System – Plasma Threshold and Energy Partition"
-    doi: 10.5281/zenodo.17186773
-    year: 2025
-  - type: article
-    title: "Orbital Inspiral and Minimal Dissipation Models"
-    doi: 10.5281/zenodo.17186420
-    year: 2025
-  - type: article
-    title: "Energy-Efficient AI via Universal Quantum Mesh Equation"
-    doi: 10.5281/zenodo.17181035
-    year: 2025
-  - type: article
-    title: "Universal Quantum Mesh Equation – Foundational Theorem"
-    doi: 10.5281/zenodo.17180764
-    year: 2025
+
