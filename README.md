@@ -95,4 +95,13 @@ Este repositório usa a licença **MIT** (veja `LICENSE`).
 
 📚 *Download all references in BibTeX format:* [citations.bib](citations.bib)
 
+## 📌 Sobre o Autor
+
+*Willians DSR*  
+Pesquisador independente desenvolvendo a *Universal Quantum Mesh Equation (WME)*, unificando cosmologia, física nuclear e inteligência artificial.  
+
+🔗 *Identificadores Acadêmicos:*  
+•⁠  ⁠🟢 *ORCID:* [https://orcid.org/0009-0003-1952-9596](https://orcid.org/0009-0003-1952-9596)  
+•⁠  ⁠📚 *Google Scholar:* [Perfil no Google Acadêmico](https://scholar.google.com/citations?user=SEU_ID…
+‎Ler mais
 
