@@ -105,3 +105,6 @@ Pesquisador independente desenvolvendo a *Universal Quantum Mesh Equation (WME)*
 •⁠  ⁠📚 *Google Scholar:* [Perfil no Google Acadêmico](https://scholar.google.com/citations?user=SEU_ID…
 ‎Ler mais
 
+  ⁠[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17221365.svg)](https://doi.org/10.5281/zenodo.17221365) The Weak Maximum Entropy Principle: Redundancy Thresholds in Weakly Coupled Systems
+
+•⁠  ⁠[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17216874.svg)](https://doi.org/10.5281/zenodo.17216874) Finite-Time Closure Theorem and Minimal-Energy Mesh Framework
