@@ -20,7 +20,7 @@ def webhook():
     print(data)
     return "ok", 200
 
- @app.route("/")
+@app.route("/")
 def home():
     return "CodeClub Bot Online"
 
