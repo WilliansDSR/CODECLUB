@@ -20,6 +20,9 @@ def webhook():
     print(data)
     return "ok", 200
 
-@app.route("/")
+    @app.route("/")
 def home():
     return "CodeClub Bot Online"
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=10000)
